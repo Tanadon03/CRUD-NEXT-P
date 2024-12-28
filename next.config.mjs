@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
-        domains:["fastly.picsum.photos"]
+        domains:["fastly.picsum.photos","static.zan-live.com"],
     }
 };
 
